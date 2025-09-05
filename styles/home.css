@@ -1,0 +1,28 @@
+body{
+  font: roboto;
+  background-color: #1f3578;
+  color: white;
+}
+.section{
+
+}
+main{
+  display: grid;
+  margin-top: 100px;
+  padding: 20px;
+
+  width: 100%;
+  position: fixed;
+}
+  .hero-section{
+    width: 100%;
+  }
+    .hero-image-wrapper{
+      position: fixed;
+    }
+    .hero-content{
+      position: fixed;
+    }
+      .hero-title{
+
+      }
